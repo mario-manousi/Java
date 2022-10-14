@@ -4,4 +4,6 @@
 
 
 :keyboard: Here you can find some of my java projects and excercises that I've completed so far.
+
+
 This repo will get updated once a week :repeat:.
